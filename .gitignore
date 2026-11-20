@@ -1,0 +1,5 @@
+*.accdb
+*.laccdb
+*.mdb
+*.ldb
+~$*
